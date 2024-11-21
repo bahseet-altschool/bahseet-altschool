@@ -7,10 +7,10 @@ I am a Software Engineer, I am creative, and I am passionate about sharing knowl
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I am currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I am currently learning JavaScript, Reactjs, and Python.
+- 💡 Fun fact: I am currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Karatu, Class of 2024.
+- 🌱 I am currently learning JavaScript, Python and Cloud tools.
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing bahseet2022@gmail.com.
 
 ---
